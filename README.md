@@ -1,6 +1,6 @@
 # 配置方法
 先按照正常的搭建worker+自定义域名配置好，在TG测试连接正常使用没问题后。
-再按照下面链接的方法进行配置优选域名，提高连接速度。链接如下：
+再按照下面链接的方法进行CNAME配置优选域名，提高连接速度。链接如下：
 ```
 https://www.youtube.com/watch?v=wuanNSAqoHM
 https://blog.cmliussss.com/p/BestWorkers/
